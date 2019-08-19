@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Coffee Shop</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_cart">Keranjang</string>
+
+    <string name="menu_pos">Point Of Sale</string>
+    <string name="menu_activity">Aktivitas</string>
+    <string name="menu_barang">Barang</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_aktivitas">Aktivitas</string>
+    <string name="title_activity_barang">Barang</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="title_activity_keranjang">Keranjang Belanja</string>
+</resources>
