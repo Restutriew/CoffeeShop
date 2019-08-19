@@ -17,4 +17,6 @@
     <string name="title_activity_barang">Barang</string>
     <string name="title_activity_setting">Setting</string>
     <string name="title_activity_keranjang">Keranjang Belanja</string>
+    <string name="title_activity_pembayaran">PembayaranActivity</string>
+    <string name="title_activity_struk">StrukActivity</string>
 </resources>

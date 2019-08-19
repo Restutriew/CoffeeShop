@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".StrukActivity"
+            android:label="@string/title_activity_struk"
+            android:parentActivityName=".PembayaranActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".PembayaranActivity" />
+        </activity>
+        <activity
+            android:name=".PembayaranActivity"
+            android:label="@string/title_activity_pembayaran"
+            android:parentActivityName=".KeranjangActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".KeranjangActivity" />
+        </activity>
+        <activity
             android:name=".KeranjangActivity"
             android:label="@string/title_activity_keranjang"
             android:parentActivityName=".MainActivity"
